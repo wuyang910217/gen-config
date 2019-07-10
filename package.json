@@ -1,6 +1,6 @@
 {
   "name": "gen-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "gen common config using the command line.",
   "bin": {
     "gen-config": "cli.js"
