@@ -1,0 +1,16 @@
+# 目录
+node_modules/
+coverage/
+cert/
+dist/
+.vscode/
+.idea/
+.github/
+build/
+.npm/
+
+# 文件
+README.md
+package-*
+package.json
+yarn.lock

@@ -1,0 +1,12 @@
+node_modules/
+_site
+README.md
+package.json
+package-*
+coverage/
+cert/
+dist/
+.vscode/
+.idea/
+.github/
+build/
